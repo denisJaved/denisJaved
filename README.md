@@ -5,6 +5,12 @@ I'm DenisJava/DenisJaved - React Native/Java developer.
 
 
 
+## Projects
+⚠️ this list can be outdated. Check [🔭 Projects](https://denisjaved.github.io?run=projects&from=ghprofile) for last updates.
+
+I'm curating [linux-learning topic](https://github.com/topics/linux-learning) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/github/explore?authorFilter=denisJaved&style=flat-square&label=my%20commits).
+
+
 <!--
 **denisJaved/denisJaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
