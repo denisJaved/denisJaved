@@ -10,7 +10,7 @@ I'm curating [linux-learning topic](https://github.com/topics/linux-learning).
 
 | Project | My activity |
 |---------|-------------|
-| [linux-learning topic](https://github.com/topics/linux-learning) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/github/explore?authorFilter=denisJaved&style=flat-square&label=my%20commits) |
+| [linux-learning topic](https://github.com/topics/linux-learning) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/github/explore?authorFilter=denisJaved&style=flat-square&label=commits) |
 
 <!--
 **denisJaved/denisJaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
