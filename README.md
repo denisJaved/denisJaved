@@ -6,8 +6,6 @@ I'm DenisJava/DenisJaved - React Native/Java developer.
 
 
 ## Projects
-I'm curating [linux-learning topic](https://github.com/topics/linux-learning).
-
 | Project | My activity |
 |---------|-------------|
 | [linux-learning topic](https://github.com/topics/linux-learning) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/github/explore?authorFilter=denisJaved&style=flat-square&label=commits) |
