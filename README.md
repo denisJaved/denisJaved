@@ -1,7 +1,7 @@
 ### Hi 👋
 I'm DenisJava/DenisJaved - React Native/Java developer.
 
-[💬 Get in touch](https://denisjaved.github.io?run=whoyouare&from=ghprofile) • [🔭 Projects](https://denisjaved.github.io?run=projects&from=ghprofile)
+[💬 Get in touch](mailto:denisJavaOffical@ya.ru) • [🔭 Projects](https://denisjaved.github.io?run=projects&from=ghprofile)
 
 
 
